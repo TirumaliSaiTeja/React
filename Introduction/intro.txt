@@ -16,7 +16,7 @@ ReactJS
 
 5. React "reacts" to state changes in your components quickly and automatically to rerender the components in the
    HTML DOM by utilizing the virtual DOM. The virtual DOM is an in-memory representation of an actual DOM. By
-   doing most of the processing inside the virtual DOM rather than directly in the browser's DOM, React can act
+   doing most of the processing inside the virtual DOM rather than directly in the browser's DOM, React can act very
    quickly and only add, update, and remove components which have changed since the last render cycle occurred.
 
 
