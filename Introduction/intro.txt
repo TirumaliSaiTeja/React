@@ -11,7 +11,7 @@ ReactJS
    applications to be built out of simple building blocks.
 
 4. React allows us to write components using a domain-specific language called JSX. JSX allows us to write our
-   components using HTML, whilst mixing in JavaScript events. React will internally convert this into a virtual DOM, and
+   components using HTML, whilst mixing in JavaScript events. React will internally convert this into a virtual DOM, and it
    will ultimately output our HTML for us.
 
 5. React "reacts" to state changes in your components quickly and automatically to rerender the components in the
