@@ -19,6 +19,25 @@ ReactJS
    doing most of the processing inside the virtual DOM rather than directly in the browser's DOM, React can act very
    quickly and only add, update, and remove components which have changed since the last render cycle occurred.
 
+New ES6 syntax:
+
+1. let
+
+In the es5, we declare variable using var keyword, the scope of the variable
+is global, if you declare it outside of a function or local means declaring it 
+inside a function
+
+Es6 provides a new way of declaring variable by using let keyword. The let 
+keyword is similar to var keyword, except that the variable it declares 
+are blocked-scope
+
+
+
+
+
+
+
+
 
 
 
