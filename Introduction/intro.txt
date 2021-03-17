@@ -60,8 +60,10 @@ In the creation phase, thelet variables are assigned storage spaces but are not 
 The let variables have the same execution phase as the var variables.
 The temporal dead zone starts from the block until the let variable declaration is processed. In other words, it is where you cannot access the let variables before they are defined.
 
+3. const
 
-
+The const keyword denotes that a variable is a constant.
+In JavaScript, a constant cannot be reassigned.
 
 
 
